@@ -28,3 +28,5 @@ O Consórcio World Wide Web (W3C) é um consórcio internacional no qual organiz
 * Prettier - Code Formatter - Code formatter using prettier
 * IntelliCode - This extension provides AI-assisted IntelliSense by showing recommended completion items for your code context at the top of the completions list.
 * Material Icon Theme - Material Design Icons for Visual Studio Code
+
+# ATUALIZAÇÃO DO GITHUB
