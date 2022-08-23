@@ -7,8 +7,14 @@
 $ git config --global user.name "John Doe"
 $ git config --global user.email johndoe@example.com
 ```
+# W3C
+[W3C](https://www.w3c.br/)
 
-# HTML
+O Consórcio World Wide Web (W3C) é um consórcio internacional no qual organizações filiadas, uma equipe em tempo integral e o público trabalham juntos para desenvolver padrões para a Web. Liderado pelo inventor da web Tim Berners-Lee e o CEO Jeffrey Jaffe, o W3C tem como missão Conduzir a World Wide Web para que atinja todo seu potencial, desenvolvendo protocolos e diretrizes que garantam seu crescimento de longo prazo.
+
+[Create a free website] (https://www.w3schools.com/spaces/)
+
+## HTML
 [Material didático](https://www.w3schools.com/html/default.asp)
 
 # VSCode
