@@ -1,5 +1,5 @@
 # Markdown
-[Sintaxe básica](https://duckduckgo.com](https://www.markdownguide.org/basic-syntax/)
+[Sintaxe básica](https://www.markdownguide.org/basic-syntax/)
 
 # GIT
 ## Configurar usuário
