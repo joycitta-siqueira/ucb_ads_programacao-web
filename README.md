@@ -16,6 +16,8 @@ O Consórcio World Wide Web (W3C) é um consórcio internacional no qual organiz
 
 ## HTML
 [Material didático](https://www.w3schools.com/html/default.asp)
+[Layout](https://www.w3schools.com/html/html_layout.asp)
+[Form](https://www.w3schools.com/html/html_forms.asp)
 
 # VSCode
 ## Extensões
